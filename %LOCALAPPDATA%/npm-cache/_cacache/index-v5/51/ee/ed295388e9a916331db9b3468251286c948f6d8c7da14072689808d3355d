@@ -1,0 +1,2 @@
+
+8b89f577c51b81969877be6629441f7f78b28721	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/glob-parent","integrity":null,"time":1768909659861,"size":"0","metadata":{"time":1768909659861,"url":"http://registry.npmjs.org/glob-parent","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 20 Jan 2026 11:47:11 GMT","location":"https://registry.npmjs.org/glob-parent","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+3ed5d31242e75683ec1b35af3f98f7715a6563b9	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/globby/-/globby-11.1.0.tgz","integrity":null,"time":1768909661173,"size":"0","metadata":{"time":1768909661172,"url":"http://registry.npmjs.org/globby/-/globby-11.1.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 20 Jan 2026 11:47:13 GMT","location":"https://registry.npmjs.org/globby/-/globby-11.1.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

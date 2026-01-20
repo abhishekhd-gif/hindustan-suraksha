@@ -1,0 +1,2 @@
+
+12c41c8d210a6526e9f8ae748afd4136ee605728	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/pkg-dir","integrity":null,"time":1768909659308,"size":"0","metadata":{"time":1768909659308,"url":"http://registry.npmjs.org/pkg-dir","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 20 Jan 2026 11:47:11 GMT","location":"https://registry.npmjs.org/pkg-dir","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

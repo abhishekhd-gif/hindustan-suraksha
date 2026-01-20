@@ -1,0 +1,2 @@
+
+14a5f07d09d2fd4e8b000cea5b538cf61203e01c	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/picomatch","integrity":null,"time":1768909660019,"size":"0","metadata":{"time":1768909660018,"url":"http://registry.npmjs.org/picomatch","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 20 Jan 2026 11:47:11 GMT","location":"https://registry.npmjs.org/picomatch","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

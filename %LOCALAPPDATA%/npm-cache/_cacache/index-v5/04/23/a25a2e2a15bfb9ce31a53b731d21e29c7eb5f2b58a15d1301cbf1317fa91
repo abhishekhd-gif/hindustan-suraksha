@@ -1,0 +1,2 @@
+
+30a8cfeffd559d4faf316cd1196be44f187013c8	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/reusify/-/reusify-1.1.0.tgz","integrity":null,"time":1768909661116,"size":"0","metadata":{"time":1768909661116,"url":"http://registry.npmjs.org/reusify/-/reusify-1.1.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 20 Jan 2026 11:47:12 GMT","location":"https://registry.npmjs.org/reusify/-/reusify-1.1.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

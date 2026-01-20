@@ -1,0 +1,2 @@
+
+3eeeee92f6c49eaf47a14408deee1cdb1523e4bd	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/dir-glob","integrity":null,"time":1768909659464,"size":"0","metadata":{"time":1768909659463,"url":"http://registry.npmjs.org/dir-glob","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 20 Jan 2026 11:47:11 GMT","location":"https://registry.npmjs.org/dir-glob","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

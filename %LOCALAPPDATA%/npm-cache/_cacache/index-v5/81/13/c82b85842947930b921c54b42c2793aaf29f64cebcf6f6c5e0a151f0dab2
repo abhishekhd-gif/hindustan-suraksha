@@ -1,0 +1,2 @@
+
+77a2fcda790863f50e0889cf52240d3c288ab1f1	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/make-dir","integrity":null,"time":1768909659307,"size":"0","metadata":{"time":1768909659306,"url":"http://registry.npmjs.org/make-dir","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 20 Jan 2026 11:47:11 GMT","location":"https://registry.npmjs.org/make-dir","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

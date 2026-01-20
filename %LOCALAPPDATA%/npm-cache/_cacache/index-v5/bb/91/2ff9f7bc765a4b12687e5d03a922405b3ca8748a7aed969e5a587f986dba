@@ -1,0 +1,2 @@
+
+a655499f24cb636848df842e672076321a8a4ee3	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/p-limit/-/p-limit-2.3.0.tgz","integrity":null,"time":1768909661217,"size":"0","metadata":{"time":1768909661217,"url":"http://registry.npmjs.org/p-limit/-/p-limit-2.3.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 20 Jan 2026 11:47:13 GMT","location":"https://registry.npmjs.org/p-limit/-/p-limit-2.3.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

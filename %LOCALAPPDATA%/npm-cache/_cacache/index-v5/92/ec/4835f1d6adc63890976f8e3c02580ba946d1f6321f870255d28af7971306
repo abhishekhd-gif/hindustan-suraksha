@@ -1,0 +1,2 @@
+
+8f62a130644d32745b1b8f0a73d9002c062c7ed2	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/fast-glob/-/fast-glob-3.3.3.tgz","integrity":null,"time":1768909661137,"size":"0","metadata":{"time":1768909661136,"url":"http://registry.npmjs.org/fast-glob/-/fast-glob-3.3.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 20 Jan 2026 11:47:13 GMT","location":"https://registry.npmjs.org/fast-glob/-/fast-glob-3.3.3.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

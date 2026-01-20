@@ -1,0 +1,2 @@
+
+0fa2808bbae5b10c1f507d29ee3f1b60d0f603cc	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/email-addresses/-/email-addresses-5.0.0.tgz","integrity":null,"time":1768909661209,"size":"0","metadata":{"time":1768909661209,"url":"http://registry.npmjs.org/email-addresses/-/email-addresses-5.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 20 Jan 2026 11:47:13 GMT","location":"https://registry.npmjs.org/email-addresses/-/email-addresses-5.0.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}
