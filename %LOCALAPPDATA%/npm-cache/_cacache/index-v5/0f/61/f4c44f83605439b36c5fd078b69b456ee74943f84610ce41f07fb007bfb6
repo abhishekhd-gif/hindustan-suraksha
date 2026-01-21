@@ -1,2 +1,0 @@
-
-449f58f80a8da3a6e41b4ccd58268b86fdd627b0	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/p-locate","integrity":null,"time":1768909660640,"size":"0","metadata":{"time":1768909660640,"url":"http://registry.npmjs.org/p-locate","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 20 Jan 2026 11:47:12 GMT","location":"https://registry.npmjs.org/p-locate","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

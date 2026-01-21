@@ -1,2 +1,0 @@
-
-fd745363fa170f642cd2c846bdef29801800f73a	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/queue-microtask","integrity":null,"time":1768909660216,"size":"0","metadata":{"time":1768909660216,"url":"http://registry.npmjs.org/queue-microtask","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 20 Jan 2026 11:47:12 GMT","location":"https://registry.npmjs.org/queue-microtask","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

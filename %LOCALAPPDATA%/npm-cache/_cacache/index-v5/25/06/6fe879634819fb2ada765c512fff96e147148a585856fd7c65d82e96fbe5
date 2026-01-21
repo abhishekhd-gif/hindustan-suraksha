@@ -1,2 +1,0 @@
-
-ed0ac1e67c8f75baf30fd5e0ff53a2f6070c8f7e	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/jsonfile","integrity":null,"time":1768909659333,"size":"0","metadata":{"time":1768909659333,"url":"http://registry.npmjs.org/jsonfile","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 20 Jan 2026 11:47:11 GMT","location":"https://registry.npmjs.org/jsonfile","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,2 +1,0 @@
-
-9db933b9349219c0274d9dddc7ca485da078db17	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/universalify/-/universalify-2.0.1.tgz","integrity":null,"time":1768909661141,"size":"0","metadata":{"time":1768909661141,"url":"http://registry.npmjs.org/universalify/-/universalify-2.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 20 Jan 2026 11:47:13 GMT","location":"https://registry.npmjs.org/universalify/-/universalify-2.0.1.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

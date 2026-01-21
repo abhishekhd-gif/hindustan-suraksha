@@ -1,2 +1,0 @@
-
-e45e3011ae8a2c4d17a05896f01b601dca374b46	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/filenamify","integrity":null,"time":1768909658733,"size":"0","metadata":{"time":1768909658732,"url":"http://registry.npmjs.org/filenamify","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 20 Jan 2026 11:47:10 GMT","location":"https://registry.npmjs.org/filenamify","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

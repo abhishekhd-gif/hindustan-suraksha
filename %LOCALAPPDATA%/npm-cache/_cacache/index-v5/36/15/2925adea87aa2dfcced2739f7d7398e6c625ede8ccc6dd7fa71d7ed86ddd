@@ -1,2 +1,0 @@
-
-48a98b3d8e506ebfa97a0c6e75311c65959c71a6	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/fastq","integrity":null,"time":1768909660012,"size":"0","metadata":{"time":1768909660012,"url":"http://registry.npmjs.org/fastq","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 20 Jan 2026 11:47:11 GMT","location":"https://registry.npmjs.org/fastq","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,2 +1,0 @@
-
-b72de7a44ec293729131ecdd5f7640cd4d71fd4a	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/gh-pages","integrity":null,"time":1768909658428,"size":"0","metadata":{"time":1768909658426,"url":"http://registry.npmjs.org/gh-pages","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 20 Jan 2026 11:47:10 GMT","location":"https://registry.npmjs.org/gh-pages","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

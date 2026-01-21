@@ -1,2 +1,0 @@
-
-6251a99acddc7d09d99a702c636c67338a417f90	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/fs-extra","integrity":null,"time":1768909658735,"size":"0","metadata":{"time":1768909658735,"url":"http://registry.npmjs.org/fs-extra","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Tue, 20 Jan 2026 11:47:10 GMT","location":"https://registry.npmjs.org/fs-extra","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

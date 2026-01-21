@@ -210,7 +210,7 @@ export const FAQS = [
 ];
 
 export const CONTACT = {
-  phone: "+91 XXXXX XXXXX",
-  email: "contact@yourdomain.com",
-  address: "Your City, PIN",
+  phone: "+91 8073631123",
+  email: "contact@hindustansurakshakavach.com",
+  address: "Bengaluru Urban- 560002",
 };
