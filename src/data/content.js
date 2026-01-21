@@ -169,17 +169,17 @@ export const BENEFITS_VIDEOS = [
   {
     type: "iframe",
     title: "YouTube Video 1",
-    src: "PASTE_YOUTUBE_EMBED_LINK_HERE",
+    src: "https://www.youtube-nocookie.com/embed/Ec08db2hP10?si=LN8K74Xnp_MU73z0",
   },
   {
     type: "iframe",
     title: "Instagram Reel 1",
-    src: "PASTE_INSTAGRAM_EMBED_LINK_HERE",
+    src: "https://www.youtube.com/embed/D5iM8UerZJY?si=wLvwGCzN_Ta_Lhx1",
   },
   {
     type: "iframe",
     title: "YouTube Video 2",
-    src: "PASTE_YOUTUBE_EMBED_LINK_HERE",
+    src: "https://www.youtube.com/embed/VWCBZpvjZfc?si=Xt_QOA9vM6wAUvZ8",
   },
 ];
 

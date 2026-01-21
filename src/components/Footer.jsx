@@ -16,11 +16,11 @@ export default function Footer() {
         <div className="ftInner">
           {/* Left */}
           <div className="ftCol">
-            <img
+            {/* <img
               className="ftLogo"
               src="/logo.png"
               alt="Hindustan Suraksha Kavach"
-            />
+            /> */}
             <p className="ftText">
               Hindustan Suraksha Kavach turns every lifes into a safety net for
               both donors and recipients.
